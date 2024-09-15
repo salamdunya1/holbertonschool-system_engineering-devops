@@ -1,4 +1,4 @@
-# Distributed Web Infrastructure Design for www.foobar.com
+# Distributed Web Infrastructure Design 
 
 <a href="https://ibb.co/1GGyzjD"><img src="https://i.ibb.co/xqq9Fdp/task-1.png" alt="task-1" border="0"></a>
 
