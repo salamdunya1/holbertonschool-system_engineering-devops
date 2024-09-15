@@ -92,4 +92,4 @@ This setup improves performance by distributing read queries across multiple nod
 
 ## Conclusion
 
-This design outlines a **distributed infrastructure** for hosting **www.foobar.com** that improves scalability, fault tolerance, and performance. While it resolves some issues from the single-server setup, further improvements are needed to fully address security and availability concerns.
+This design outlines a **distributed infrastructure** for hosting  that improves scalability, fault tolerance, and performance. While it resolves some issues from the single-server setup, further improvements are needed to fully address security and availability concerns.
