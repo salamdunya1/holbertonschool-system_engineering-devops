@@ -1,4 +1,4 @@
-# One Server Web Infrastructure Design for www.foobar.com
+# One Server Web Infrastructure
 
 <a href="https://ibb.co/bWzmTjT"><img src="https://i.ibb.co/gjz9NbN/task-0.png" alt="task-0" border="0"></a>
 
