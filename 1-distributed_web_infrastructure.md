@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project outlines the design of a web infrastructure that serves a website at **www.foobar.com**. It consists of three servers, each serving a specific purpose:
+This project outlines the design of a web infrastructure. It consists of three servers, each serving a specific purpose:
 
 - **HAProxy** as the load balancer
 - **Nginx** as the web server
