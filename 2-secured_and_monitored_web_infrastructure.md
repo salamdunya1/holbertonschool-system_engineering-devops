@@ -1,10 +1,10 @@
-# Secured and monitored Web Infrastructure for www.foobar.com (Secured and Monitored)
+# Secured and monitored Web Infrastructure (Secured and Monitored)
 
 <a href="https://ibb.co/ydpFJby"><img src="https://i.ibb.co/TY1M5F8/task-2.png" alt="task-2" border="0"></a>
 
 ## Overview
 
-This project outlines the design of a secure and monitored three-server web infrastructure that serves **www.foobar.com**. The infrastructure will:
+This project outlines the design of a secure and monitored three-server web infrastructure that serves. The infrastructure will:
 
 - Use **3 firewalls** to secure servers
 - Serve encrypted traffic using an **SSL certificate**
