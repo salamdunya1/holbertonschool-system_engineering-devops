@@ -19,7 +19,7 @@ The entire infrastructure is hosted on a single server. This server handles all 
 
 ### 2. **Domain Name**
 
-The domain name for the website is **foobar.com**. The domain is configured with a **DNS A record** for `www.foobar.com`, which points to the server’s IP address (8.8.8.8). This allows users to access the website via `www.foobar.com` instead of the raw IP address.
+The domain name for the website is **foobar.com**. The domain is configured with a **DNS A record**, which points to the server’s IP address (8.8.8.8). This allows users to access the website via `www.foobar.com` instead of the raw IP address.
 
 - **Domain**: `foobar.com`
 - **DNS A Record**: `www.foobar.com` → `8.8.8.8`
